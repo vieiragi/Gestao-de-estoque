@@ -1,0 +1,7 @@
+usuario / senha
+
+Funcao: Administrador
+adm01 / admin
+
+Funcao: Usuario
+user01 / senha

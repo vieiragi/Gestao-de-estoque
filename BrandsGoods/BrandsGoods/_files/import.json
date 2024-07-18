@@ -1,0 +1,20 @@
+[
+   {
+      "articleID":41,
+      "articleName":"Álcool gel",
+      "articlePrice":0.80,
+      "articleAmount":50
+   },
+   {
+      "articleID":42,
+      "articleName":"Respiradores FFP2",
+      "articlePrice":1.50,
+      "articleAmount":0
+   },
+   {
+      "articleID":43,
+      "articleName":"Máscaras cirúrgicas",
+      "articlePrice":0.90,
+      "articleAmount":10
+   }
+]
